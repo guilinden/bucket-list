@@ -1,0 +1,56 @@
+.nav-link{
+	background-color: #5cb85c;
+	border: 1px solid white;
+	font-size: 2em;
+	margin-right: 10px;
+}
+
+.selectedText{
+	font-size: 1.2em;
+	width: 40%
+	
+}
+
+.active{
+	background-color: blue;
+}
+
+.navbar{
+	padding-left: 0;
+	width: 50%
+}
+
+
+
+.form-control{
+	width: 30%;
+}
+
+.add{
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+body{
+	margin-left: 1%;
+}
+
+.notebook{
+	float: right;
+	margin-right: 20%;
+	margin-right: 40%;
+	border-radius: 4%;
+	margin-top: -10%;
+}
+
+.delete{
+	padding-left: 30px;
+}
+
+
+
+.fixFloat{
+  content: "";
+  display: inline-block;
+  clear: both;
+}
